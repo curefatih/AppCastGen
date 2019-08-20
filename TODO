@@ -6,3 +6,14 @@ LEARN LIST:
   ☐ nginx-rtmp-module
   ☐ FFMPEG streaming options
   ☐ Embedding external native windows
+
+CheckList:
+  
+  Github Projects:
+    ☐ https://github.com/miguelgrinberg/flask-video-streaming
+    ☐ https://blog.miguelgrinberg.com/post/video-streaming-with-flask
+    __
+    ☐ https://github.com/t-mullen/hls-server
+    __
+
+  

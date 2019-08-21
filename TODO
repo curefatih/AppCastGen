@@ -2,7 +2,7 @@ LEARN LIST:
   ✔ What is HLS? @started(19-08-20 20:36) @done(19-08-20 21:38) @lasted(1h2m40s)
     ✔ Try on something @started(19-08-20 22:03) @done(19-08-20 22:16) @lasted(13m12s)
       -> used hls.js and static html file ref folder? 'RF1'
-  ☐ What is .m3u8 and .ts?
+  ✔ What is .m3u8 and .ts? @started(19-08-21 20:12) @done(19-08-21 23:14) @lasted(3h2m40s)
   ☐ rtmp, rtsp, rtc and other real-time protocols
   ☐ nginx-rtmp-module
   ☐ FFMPEG streaming options
